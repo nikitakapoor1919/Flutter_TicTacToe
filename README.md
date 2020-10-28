@@ -1,4 +1,4 @@
-# flutter_app
+# Flutter_app
 
-A new Flutter application.
+Simple TicTacToe Application.
 
